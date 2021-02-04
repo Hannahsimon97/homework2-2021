@@ -1,54 +1,54 @@
-body{
+body {
     font-family: 'Times New Roman', 'sans-serif';
     background-color: #000000;
     color: #ffffff
 }
 
-main h1{
+main h1 {
     text-align: center;
     font-size: 64px;
     padding: 10px;
 }
 
-main h2{
+main h2 {
     font-size: 32px;
     text-shadow: #808080 4px 4px 2px;
 }
 
-p{
+p {
     font-size: 24px;
     padding-top:15px;
 }
 
-img{
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 550px;
 }
 
-div{
+div {
     min-height: 150px;
     padding: 25px;
 }
 
-#red{
+#red {
     background-color: #FF0000;
     text-align: right;
 }
 
-#blue{
+#blue {
     background-color: #0000ff;
     text-align: left;
 }
 
-#yellow{
+#yellow {
     background-color: #ffff00;
     text-align: right;
     color: #000000;
 }
 
-#yellow h2{
+#yellow h2 {
     text-align: right;
     color: black;
     text-shadow: #c7e2c7 4px 4px 2px;
